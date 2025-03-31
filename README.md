@@ -6,6 +6,7 @@
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+To help tech novice understand
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
